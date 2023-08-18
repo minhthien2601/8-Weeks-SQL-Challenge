@@ -53,7 +53,7 @@ In this case study - you are required to support the founder and CEO Danny’s v
 
 ### 2. Digital Analysis
 
-View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%236%20-%20Clique%20Bait/2.Digital_Analysis.md).
+View my solution [here](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/dc820e9aa1f631026586c6e122d12e727b6aaa6e/8-WEEK-SQL-CHALLENGE/Case%20Study%20%236%20-%20Clique%20Bait/2.Digital_Analysis.md).
 
 1. How many users are there?
 2. How many cookies does each user have on average?
@@ -69,7 +69,7 @@ View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/ma
 
 ### 3. Product Funnel Analysis
 
-View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%236%20-%20Clique%20Bait/3.Product_Funnel_Analysis.md).
+View my solution [here](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/dc820e9aa1f631026586c6e122d12e727b6aaa6e/8-WEEK-SQL-CHALLENGE/Case%20Study%20%236%20-%20Clique%20Bait/3.Product_Funnel_Analysis.md).
 
 Using a single SQL query - create a new output table which has the following details:
 
@@ -92,7 +92,7 @@ Use your 2 new output tables - answer the following questions:
 
 ### 4. Campaigns Analysis
 
-View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%236%20-%20Clique%20Bait/4.%20Campaigns_Analysis.md).
+View my solution [here](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/dc820e9aa1f631026586c6e122d12e727b6aaa6e/8-WEEK-SQL-CHALLENGE/Case%20Study%20%236%20-%20Clique%20Bait/4.%20Campaigns_Analysis.md).
 
 Generate a table that has 1 single row for every unique visit_id record and has the following columns:
 - user_id
