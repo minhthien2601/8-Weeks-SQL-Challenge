@@ -32,14 +32,14 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 ## Cleaning 
 Before going through questions of Case Study #2. We need to clean database ('null' values, strings,etc ...). And some new table for specific questions.
 
-- [Cleaning_Data Here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Data_Cleaning.md)
+- [Cleaning_Data Here](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/d43faf783545d22507b6d57eaa452317710e9607/8-WEEK-SQL-CHALLENGE/Case%20Study%20%232%20-%20Pizza%20Runner/Data_Cleaning.md)
 
 ## Questions
 
 This case study has LOTS of questions - they are broken up by area of focus including:
 
 ### A. Pizza Metrics : 
-- [Solution](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.Pizza_Metric.md)
+- [Solution](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/d43faf783545d22507b6d57eaa452317710e9607/8-WEEK-SQL-CHALLENGE/Case%20Study%20%232%20-%20Pizza%20Runner/A.Pizza_Metric.md)
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
 3. How many successful orders were delivered by each runner?
@@ -52,7 +52,7 @@ This case study has LOTS of questions - they are broken up by area of focus incl
 10. What was the volume of orders for each day of the week?
 #
 ### B. Runner and Customer Experience
-- [Solution](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/B.Runner_and_Customer_Experience.md)
+- [Solution](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/d43faf783545d22507b6d57eaa452317710e9607/8-WEEK-SQL-CHALLENGE/Case%20Study%20%232%20-%20Pizza%20Runner/B.Runner_and_Customer_Experience.md)
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 2. What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
 3. Is there any relationship between the number of pizzas and how long the order takes to prepare?
@@ -63,7 +63,7 @@ This case study has LOTS of questions - they are broken up by area of focus incl
 
 #
 ### C. Ingredient Optimisation
-- [Solution](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/C.Ingredient_Optimisation.md)
+- [Solution](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/d43faf783545d22507b6d57eaa452317710e9607/8-WEEK-SQL-CHALLENGE/Case%20Study%20%232%20-%20Pizza%20Runner/C.Ingredient_Optimisation.md)
 1. What are the standard ingredients for each pizza?
 2. What was the most commonly added extra?
 3. What was the most common exclusion?
@@ -78,7 +78,7 @@ This case study has LOTS of questions - they are broken up by area of focus incl
 
 #
 ### D. Pricing and Ratings
-- [Solution](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/D.%20Pricing_and_Ratings.md)
+- [Solution](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/d43faf783545d22507b6d57eaa452317710e9607/8-WEEK-SQL-CHALLENGE/Case%20Study%20%232%20-%20Pizza%20Runner/D.%20Pricing_and_Ratings.md)
 1. If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
 2. What if there was an additional $1 charge for any pizza extras?
       - Add cheese is $1 extra
