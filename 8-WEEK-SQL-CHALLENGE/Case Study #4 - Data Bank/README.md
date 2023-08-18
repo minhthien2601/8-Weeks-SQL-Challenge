@@ -52,7 +52,7 @@ This table stores all customer deposits, withdrawals and purchases made using th
 
 ### A. Customer Nodes Exploration
 
-View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/A.Customer_Nodes_Exploration.md).
+View my solution [here](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/51c90cab1ad57e9d31eb95bf2b241e5c19e11cc5/8-WEEK-SQL-CHALLENGE/Case%20Study%20%234%20-%20Data%20Bank/A.Customer_Nodes_Exploration.md).
 
 1. How many unique nodes are there on the Data Bank system?
 2. What is the number of nodes per region?
@@ -62,7 +62,7 @@ View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/ma
 
 ### B. Customer Transactions
 
-View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/B.Customer_Transactions.md).
+View my solution [here](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/51c90cab1ad57e9d31eb95bf2b241e5c19e11cc5/8-WEEK-SQL-CHALLENGE/Case%20Study%20%234%20-%20Data%20Bank/B.Customer_Transactions.md).
   
 1. What is the unique count and total amount for each transaction type?
 2. What is the average total historical deposit counts and amounts for all customers?
