@@ -26,7 +26,7 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 ## Questions
 
 ### A. Customer Journey
-[Solution](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/A.Customer_Journey_Solutions.md)
+[Solution](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/155fc05de1be1127e15e5432919aefa8d7ed27e9/8-WEEK-SQL-CHALLENGE/Case%20Study%20%233%20-%20Foodie%20-%20FI/A.Customer_Journey_Solutions.md)
 
 Based off the 8 sample customers provided in the sample from the `subscriptions` table, write a brief description about each customer’s onboarding journey.
 
@@ -34,7 +34,7 @@ Try to keep it as short as possible - you may also want to run some sort of join
 
 #
 ### B. Data Analysis Questions
-[Solution](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/B.Data_Analyst.md)
+[Solution](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/155fc05de1be1127e15e5432919aefa8d7ed27e9/8-WEEK-SQL-CHALLENGE/Case%20Study%20%233%20-%20Foodie%20-%20FI/B.Data_Analyst.md)
 
 1. How many customers has Foodie-Fi ever had?
 2. What is the monthly distribution of `trial` plan `start_date` values for our dataset - use the start of the month as the group by value
