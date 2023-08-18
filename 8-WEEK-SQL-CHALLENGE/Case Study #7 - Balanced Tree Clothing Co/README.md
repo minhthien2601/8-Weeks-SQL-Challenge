@@ -39,7 +39,7 @@ For this case study there is a total of 4 datasets for this case study - however
 
 ### A. High Level Sales Analysis
 
-View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co/A.High%20Level%20Sales%20Analysis.md).
+View my solution [here](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/abdf40e30017cb5c6b1ffd34209161462fba898b/8-WEEK-SQL-CHALLENGE/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co/A.High%20Level%20Sales%20Analysis.md).
 
 1. What was the total quantity sold for all products?
 2. What is the total generated revenue for all products before discounts?
@@ -50,7 +50,7 @@ View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/ma
 ### B. Transaction Analysis
 
 
-View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co/B.Transaction_Analysis.md).
+View my solution [here](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/abdf40e30017cb5c6b1ffd34209161462fba898b/8-WEEK-SQL-CHALLENGE/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co/B.Transaction_Analysis.md).
 
 1. How many unique transactions were there?
 2. What is the average unique products purchased in each transaction?
@@ -62,7 +62,7 @@ View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/ma
 
 ### C. Product Analysis
 
-View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co/C.Product_Analysis.md).
+View my solution [here](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/abdf40e30017cb5c6b1ffd34209161462fba898b/8-WEEK-SQL-CHALLENGE/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co/C.Product_Analysis.md).
 
 1. What are the top 3 products by total revenue before discount?
 2. What is the total quantity, revenue and discount for each segment?
@@ -78,7 +78,7 @@ View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/ma
 
 ***
 ### D. Bonus Challenge
-View my solution [here](https://github.com/beto1810/8_Week_SQL_Challenge/blob/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co/D.Bonus%20Challenge.md).
+View my solution [here](https://github.com/minhthien2601/8-Weeks-SQL-Challenge/blob/abdf40e30017cb5c6b1ffd34209161462fba898b/8-WEEK-SQL-CHALLENGE/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co/D.Bonus%20Challenge.md).
 
 Use a single SQL query to transform the product_hierarchy and product_prices datasets to the product_details table.
 
